@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-Game in C++
+# Tic-Tac-Toe Game in C++
 
 A C++ Program to play tic-tac-toe.
 
